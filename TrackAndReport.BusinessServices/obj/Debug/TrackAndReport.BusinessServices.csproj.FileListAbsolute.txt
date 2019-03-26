@@ -1,0 +1,12 @@
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TrackAndReport.BusinessServices\bin\Debug\TrackAndReport.BusinessServices.dll
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TrackAndReport.BusinessServices\bin\Debug\TrackAndReport.BusinessServices.pdb
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TrackAndReport.BusinessServices\bin\Debug\TackandReport.DataServices.dll
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TrackAndReport.BusinessServices\bin\Debug\TrackAndReport.DataModels.dll
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TrackAndReport.BusinessServices\bin\Debug\EntityFramework.dll
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TrackAndReport.BusinessServices\bin\Debug\TackandReport.DataServices.pdb
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TrackAndReport.BusinessServices\bin\Debug\TrackAndReport.DataModels.pdb
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TrackAndReport.BusinessServices\obj\Debug\TrackAndReport.BusinessServices.csprojAssemblyReference.cache
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TrackAndReport.BusinessServices\obj\Debug\TrackAndReport.BusinessServices.csproj.CoreCompileInputs.cache
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TrackAndReport.BusinessServices\obj\Debug\TrackAndReport.BusinessServices.csproj.CopyComplete
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TrackAndReport.BusinessServices\obj\Debug\TrackAndReport.BusinessServices.dll
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TrackAndReport.BusinessServices\obj\Debug\TrackAndReport.BusinessServices.pdb

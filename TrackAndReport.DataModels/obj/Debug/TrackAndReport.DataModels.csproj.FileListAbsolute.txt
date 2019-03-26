@@ -1,0 +1,10 @@
+C:\Users\Akshay\source\repos\TrackAndReport.DataModels\bin\Debug\TrackAndReport.DataModels.dll
+C:\Users\Akshay\source\repos\TrackAndReport.DataModels\bin\Debug\TrackAndReport.DataModels.pdb
+C:\Users\Akshay\source\repos\TrackAndReport.DataModels\obj\Debug\TrackAndReport.DataModels.csproj.CoreCompileInputs.cache
+C:\Users\Akshay\source\repos\TrackAndReport.DataModels\obj\Debug\TrackAndReport.DataModels.dll
+C:\Users\Akshay\source\repos\TrackAndReport.DataModels\obj\Debug\TrackAndReport.DataModels.pdb
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TrackAndReport.DataModels\bin\Debug\TrackAndReport.DataModels.dll
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TrackAndReport.DataModels\bin\Debug\TrackAndReport.DataModels.pdb
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TrackAndReport.DataModels\obj\Debug\TrackAndReport.DataModels.csproj.CoreCompileInputs.cache
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TrackAndReport.DataModels\obj\Debug\TrackAndReport.DataModels.dll
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TrackAndReport.DataModels\obj\Debug\TrackAndReport.DataModels.pdb

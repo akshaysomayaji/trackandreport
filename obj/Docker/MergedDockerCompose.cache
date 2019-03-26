@@ -1,0 +1,13 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  trackandreport.mvc:
+    build:
+      context: C:\Users\Akshay\source\repos\TrackAndReport.MVC\TrackAndReport.MVC
+      dockerfile: Dockerfile
+    image: trackandreportmvc
+    ports:
+    - target: 80
+version: '3.4'

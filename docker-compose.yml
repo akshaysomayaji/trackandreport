@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  trackandreport.mvc:
+    image: ${DOCKER_REGISTRY-}trackandreportmvc
+    build:
+      context: .\TrackAndReport.MVC
+      dockerfile: Dockerfile

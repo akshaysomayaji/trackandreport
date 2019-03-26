@@ -1,0 +1,11 @@
+C:\Users\Akshay\source\repos\TackandReport.DataServices\obj\Debug\TackandReport.DataServices.csprojAssemblyReference.cache
+C:\Users\Akshay\source\repos\TackandReport.DataServices\obj\Debug\TackandReport.DataServices.csproj.CoreCompileInputs.cache
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TackandReport.DataServices\bin\Debug\TackandReport.DataServices.dll
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TackandReport.DataServices\bin\Debug\TackandReport.DataServices.pdb
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TackandReport.DataServices\bin\Debug\TrackAndReport.DataModels.dll
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TackandReport.DataServices\bin\Debug\TrackAndReport.DataModels.pdb
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TackandReport.DataServices\obj\Debug\TackandReport.DataServices.csprojAssemblyReference.cache
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TackandReport.DataServices\obj\Debug\TackandReport.DataServices.csproj.CoreCompileInputs.cache
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TackandReport.DataServices\obj\Debug\TackandReport.DataServices.csproj.CopyComplete
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TackandReport.DataServices\obj\Debug\TackandReport.DataServices.dll
+C:\Users\Akshay\source\repos\TrackAndReport.MVC\TackandReport.DataServices\obj\Debug\TackandReport.DataServices.pdb
